@@ -1,0 +1,48 @@
+Last login: Sat Jun  5 15:29:44 on ttys000
+serhatyesilmen@Serhat-MacBook-Pro ~ % pwd         
+/Users/serhatyesilmen
+serhatyesilmen@Serhat-MacBook-Pro ~ % ls
+AndroidStudioProjects	Movies			TechtoriaalBatch7.sql
+Applications		Music			TechtoriaalBatch71.sql
+Desktop			Pictures		TechtoriaalBatch72.sql
+Documents		Postman			TechtoriaalBatch73.sql
+Downloads		Projects		app.js
+IdeaProjects		Public			nano.save
+Library			Serhat
+serhatyesilmen@Serhat-MacBook-Pro ~ % cd desktop
+serhatyesilmen@Serhat-MacBook-Pro desktop % cd GithubPractice
+serhatyesilmen@Serhat-MacBook-Pro GithubPractice % ls
+GithubPractice.iml	pom.xml			src
+serhatyesilmen@Serhat-MacBook-Pro GithubPractice % cd..
+zsh: command not found: cd..
+serhatyesilmen@Serhat-MacBook-Pro GithubPractice % cd ..
+serhatyesilmen@Serhat-MacBook-Pro desktop % cd GithubPractice
+serhatyesilmen@Serhat-MacBook-Pro GithubPractice % vim index.txt
+
+
+
+
+animal
+cd ..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
